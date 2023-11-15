@@ -16,10 +16,6 @@ Screenshots
 </h1>
 
 <p align="center">
-  <img width="800" height="600" src="menu.png">
-</p>
-
-<p align="center">
   <img width="800" height="600" src="menu2.png">
 </p>
 
